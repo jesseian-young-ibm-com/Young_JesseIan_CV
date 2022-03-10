@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jesseian-young-ibm-com.github.io/Young_JesseIan_CV/static/css/main.67f99a4f.css",
-    "main.js": "/jesseian-young-ibm-com.github.io/Young_JesseIan_CV/static/js/main.92d70dbd.js",
-    "static/js/787.25d6ab16.chunk.js": "/jesseian-young-ibm-com.github.io/Young_JesseIan_CV/static/js/787.25d6ab16.chunk.js",
-    "static/media/IanPicture.jpg": "/jesseian-young-ibm-com.github.io/Young_JesseIan_CV/static/media/IanPicture.4b424c8342eb26dcd71a.jpg",
-    "index.html": "/jesseian-young-ibm-com.github.io/Young_JesseIan_CV/index.html",
-    "main.67f99a4f.css.map": "/jesseian-young-ibm-com.github.io/Young_JesseIan_CV/static/css/main.67f99a4f.css.map",
-    "main.92d70dbd.js.map": "/jesseian-young-ibm-com.github.io/Young_JesseIan_CV/static/js/main.92d70dbd.js.map",
-    "787.25d6ab16.chunk.js.map": "/jesseian-young-ibm-com.github.io/Young_JesseIan_CV/static/js/787.25d6ab16.chunk.js.map"
+    "main.css": "/Young_JesseIan_CV/static/css/main.67f99a4f.css",
+    "main.js": "/Young_JesseIan_CV/static/js/main.e5006799.js",
+    "static/js/787.25d6ab16.chunk.js": "/Young_JesseIan_CV/static/js/787.25d6ab16.chunk.js",
+    "static/media/IanPicture.jpg": "/Young_JesseIan_CV/static/media/IanPicture.4b424c8342eb26dcd71a.jpg",
+    "index.html": "/Young_JesseIan_CV/index.html",
+    "main.67f99a4f.css.map": "/Young_JesseIan_CV/static/css/main.67f99a4f.css.map",
+    "main.e5006799.js.map": "/Young_JesseIan_CV/static/js/main.e5006799.js.map",
+    "787.25d6ab16.chunk.js.map": "/Young_JesseIan_CV/static/js/787.25d6ab16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67f99a4f.css",
-    "static/js/main.92d70dbd.js"
+    "static/js/main.e5006799.js"
   ]
 }
